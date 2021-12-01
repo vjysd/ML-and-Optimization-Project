@@ -1,4 +1,4 @@
-# Machine Learning and Optimization (CSCI 4961/6961)
+# Machine Learning and Optimization (CSCI 4961/6961) - Group 8 (G8)
 
 Repository with deliverables for Machine Learning and Optimization course project (Fall 2021) - Rensselaer Polytechnic Institute 
 
