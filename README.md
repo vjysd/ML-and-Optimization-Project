@@ -24,4 +24,5 @@ python ppo.py
 python trpo.py
 python reinforce.py
 ```
-- Problem set and solutions can be found under **problem_set** folder.
+## Problem Set
+Problem set and solutions can be found under **problem_set** folder.
