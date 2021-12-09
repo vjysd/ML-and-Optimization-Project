@@ -26,3 +26,6 @@ python reinforce.py
 ```
 ## Problem Set
 Problem set and solutions can be found under **problem_set** folder.
+
+## Presentation
+https://docs.google.com/presentation/d/1FASbOoTaLt0jUBVxKkFTnmkPNnYOGr4frTez2qYXipg/edit#slide=id.g101376aa74c_0_27
